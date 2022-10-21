@@ -1,7 +1,6 @@
 [package]
-name = "hello_near"
+name = "near_staking_app"
 version = "1.0.0"
-authors = ["Near Inc <hello@near.org>"]
 edition = "2021"
 
 [lib]
